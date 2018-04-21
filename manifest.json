@@ -3,15 +3,15 @@
   "name": "Trackmob",
   "icons": [
     {
-     "src": "karaoke.png",
+      "src": "karaoke.png",
+      "type": "image/png",
+      "sizes":  "192x192 144x144 64x64 32x32 24x24 16x16"
+    },
+    {
+     "src": "karaoke-large.png",
      "type": "image/png",
-     "sizes":  "192x192 144x144 64x64 32x32 24x24 16x16"
-   },
-   {
-    "src": "karaoke-large.png",
-    "type": "image/png",
-    "sizes":  "512x512"
-  }
+     "sizes":  "512x512"
+   }
   ],
   "start_url": "./index.html",
   "display": "standalone",
