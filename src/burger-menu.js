@@ -8,9 +8,9 @@ class BurgerMenu extends Component {
       <div>
       <Menu>
         <a style={{marginBottom: '3rem', marginTop: '1rem'}}>Tchatchotho usuário</a>
-        <a id="home" className="menu-item" href="/">&#9883;	Home</a>
-        <a id="about" className="menu-item" href="/about">&#128712; About</a>
-        <a id="contact" className="menu-item" href="/contact">&#x260f; Contact</a>
+        <a id="home" className="menu-item">&#9883;	Home</a>
+        <a id="about" className="menu-item">&#128712; About</a>
+        <a id="contact" className="menu-item">&#x260f; Contact</a>
       </Menu>
       </div>
     );
